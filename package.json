@@ -147,7 +147,7 @@
     "env-cmd": "^10.1.0",
     "eslint": "^7.19.0",
     "eslint-plugin-security": "^1.4.0",
-    "eslint-webpack-plugin": "^2.7.0",
+    "eslint-webpack-plugin": "^5.0.0",
     "mocha": "^8.4.0",
     "nodemon": "^2.0.19",
     "nyc": "^14.1.1",
